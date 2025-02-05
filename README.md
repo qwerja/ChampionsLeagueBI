@@ -2,6 +2,8 @@ Champions League BI - Power BI Dashboard
 
 Bem-vindo ao repositório do projeto de análise de dados da **Champions League**, desenvolvido como parte do portfólio de Lucca Ferreira Marques. Este projeto utiliza Power BI para explorar insights estratégicos sobre times, estádios, público e desempenho ao longo de duas décadas (2003-2024).  
 
+Imagens ilustrativas e em seguida mais informações sobre o projeto. 
+
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)  
 
 ![image](https://github.com/user-attachments/assets/55b3ec9f-f880-45b1-8151-83685fb0bf56)
